@@ -10,7 +10,7 @@ This tool allows you to procedurally generate sections, while paiting price leve
 1. Download the JSON file of that template.
 1. Run the script
 
-`ruby generator.rb path/to/TEMPLATE.json`
+`$ ruby generator.rb path/to/TEMPLATE.json`
 
 You'll be presented a list of templates and asked which tempalte you want to clone, how many times, etc. The script will copy any holds applied, and also increment sections by name (and selling order) automatically.
 
